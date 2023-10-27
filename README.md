@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Jasleen</h1>
-<h3 align="center">A passionate Software Developer based in Canada</h3>
+<h1 align="left">Hi 👋, I'm Jasleen</h1>
+<h3 align="left">A passionate Software Developer based in Canada</h3>
 
 - 🌱 I’m currently learning **Power Platform and Azure Cloud Services**
 
 - 📫 How to reach me **jasleen08kaur05@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/imjasleen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imjasleen" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
