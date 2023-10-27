@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jasleen-debug
+- 👋 Hi, I’m Jasleen
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python and android development
+- 🌱 I’m currently exploring Power Platform Suite and Azure Cloud services
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me www.linkedin.com/in/imjasleen 
 
