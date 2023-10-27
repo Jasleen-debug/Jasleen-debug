@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jasleen</h1>
-<h3 align="center">A passionate Software Developer based in Canada</h3>
+<h1 align="left">Hi 👋, I'm Jasleen</h1>
+<h3 align="left">A passionate Software Developer based in Canada</h3>
 
 - 🌱 I’m currently learning **Power Platform and Azure Cloud Services**
 
